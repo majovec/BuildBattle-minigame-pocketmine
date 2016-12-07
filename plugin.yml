@@ -1,0 +1,14 @@
+name: BuildBattle
+main: Dan\BB
+api: [1.0.0, 2.0.0]
+version: 1.3.3.7
+author: DanilZz
+
+commands:
+    bb:
+        usage: /bb <make>
+        description: CreateGame
+permissions:
+    bb.op:
+        default: op
+  
