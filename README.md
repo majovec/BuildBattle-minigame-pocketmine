@@ -1,3 +1,3 @@
 # BuildBattle-minigame-pocketmine
 BuildBattle-minigame-pocketmine-minecraft-pe
-use - /bb make <map name>
+use - /bb make *arena_name*
